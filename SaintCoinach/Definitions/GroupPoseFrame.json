@@ -1,20 +1,20 @@
 {
-  "sheet": "Lobby",
+  "sheet": "GroupPoseFrame",
   "defaultColumn": "Text",
   "definitions": [
     {
-      "name": "TYPE"
-    },
-    {
       "index": 1,
-      "name": "PARAM"
+      "name": "Image",
+      "converter": {
+        "type": "icon"
+      }
     },
     {
       "index": 2,
-      "name": "LINK"
+      "name": "GridText"
     },
     {
-      "index": 3,
+      "index": 6,
       "name": "Text"
     }
   ]
