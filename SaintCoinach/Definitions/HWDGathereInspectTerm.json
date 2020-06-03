@@ -1,13 +1,9 @@
 {
-  "sheet": "AchievementKind",
+  "sheet": "HWDGathereInspectTerm",
   "defaultColumn": "Name",
   "definitions": [
     {
       "name": "Name"
-    },
-    {
-      "index": 1,
-      "name": "Order"
     }
   ]
 }
